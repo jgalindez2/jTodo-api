@@ -1,0 +1,24 @@
+{
+  "name": "spider-todo",
+  "version": "1.0.0",
+  "description": "Spider Todo Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jgalindez2/jTodo-api.git"
+  },
+  "author": "John Galindez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgalindez2/jTodo-api/issues"
+  },
+  "homepage": "https://github.com/jgalindez2/jTodo-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13"
+  }
+}
